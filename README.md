@@ -6,3 +6,4 @@ That's a CentOS 6 epel
 Packages list
 ================
 * openssh-clients
+* git

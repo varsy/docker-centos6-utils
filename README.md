@@ -8,3 +8,5 @@ Packages list
 * openssh-clients
 * git
 * unzip
+* sendmail
+* mailx

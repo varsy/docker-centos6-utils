@@ -10,3 +10,4 @@ Packages list
 * unzip
 * sendmail
 * mailx
+* mysql

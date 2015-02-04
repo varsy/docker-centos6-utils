@@ -6,6 +6,7 @@ RUN yum install -y openssh-clients
 RUN yum install -y git
 RUN yum install -y unzip
 RUN yum install -y sendmail mailx
+RUN yum install -y mysql
 
 CMD /bin/bash
 

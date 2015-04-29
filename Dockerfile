@@ -7,6 +7,7 @@ RUN yum install -y git
 RUN yum install -y unzip
 RUN yum install -y sendmail mailx
 RUN yum install -y mysql
+RUN yum install -y telnet
 
 CMD /bin/bash
 

@@ -11,3 +11,5 @@ Packages list
 * sendmail
 * mailx
 * mysql
+* openssl
+* which

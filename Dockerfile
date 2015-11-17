@@ -16,7 +16,7 @@ RUN yum install -y \
   python-pip
   
 # Setup awscli
-RUN pip install -y \
+RUN pip install \
   awscli
 
 CMD /bin/bash

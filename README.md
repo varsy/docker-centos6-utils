@@ -13,4 +13,6 @@ Packages list
 * mysql
 * openssl
 * which
+* python-pip
+* awscli
 * iftop

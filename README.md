@@ -16,3 +16,4 @@ Packages list
 * python-pip
 * awscli
 * iftop
+* postgresql

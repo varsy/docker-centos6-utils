@@ -14,7 +14,8 @@ RUN yum install -y \
   openssl \
   which \
   python-pip \
-  iftop
+  iftop \
+  postgresql
 
 # Setup awscli
 RUN pip install \
